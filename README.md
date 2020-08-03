@@ -1,1 +1,1 @@
-<h1> Bem-Vindo ao meu GitHub :wave: </h1>
+<h1>:wave:  Bem-Vindo ao meu GitHub ! </h1>
