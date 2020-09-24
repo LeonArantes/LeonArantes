@@ -14,5 +14,5 @@ I'm a frontEnd developer.
 <br>
 
 <a href="https://github.com/LeonArantes">
-  <img width="100%"  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LeonArantes&show_icons=true&include_all_commits=true&theme=radical" alt="LeonArantes Github stats" />
+  <img width="40%"  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LeonArantes&show_icons=true&include_all_commits=true&theme=radical" alt="LeonArantes Github stats" />
 </a>
