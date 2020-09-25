@@ -8,6 +8,7 @@ I'm a FrontEnd developer in Brazil.
 
 **Languages and Tools:**
 <br>  
+<a href="https://github.com/LeonArantes">
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Html_OpyfHgy48T.png" width="80" height="80" />
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Css_EyaiR_MtL.png" width="80" height="80" />
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Js_gPg-1e6zt.png" width="80" height="80" />
@@ -18,6 +19,7 @@ I'm a FrontEnd developer in Brazil.
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Sass_VJhFIUKBKN.png" width="80" height="80" />
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Git_40K1TAH8NS.png" width="80" height="80" />
   <img src="https://ik.imagekit.io/LeonArantes/Icon_-_Pug_H-wjrLdHf2.png" width="80" height="80" />
+ </a>
 <br>
 <br>
 
